@@ -1,0 +1,19 @@
+table {
+  border: 1px solid black ;
+  width: 50%;
+  margin: 10px;
+}
+
+th, td {
+  border: 1px solid rgb(2, 46, 31);
+}
+
+.th1 {
+width: 15px;
+text-align: left;
+}
+
+#th2 {
+border: 1px solid black;
+width: 500px;
+}
